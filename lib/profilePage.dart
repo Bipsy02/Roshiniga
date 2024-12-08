@@ -373,10 +373,6 @@ class AboutPage extends StatelessWidget {
 class CampaignsPage extends StatelessWidget {
   const CampaignsPage({super.key});
 
-  // @override
-  // Widget build(BuildContext context) {
-  //   return Placeholder();
-  // }
   @override
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;

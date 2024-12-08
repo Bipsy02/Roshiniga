@@ -261,7 +261,7 @@ class _DetailPageState extends State<CampaignCardDetail> with TickerProviderStat
                 children: [
                   SingleChildScrollView(
                     child: Text(
-                    'hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha hahahaha',
+                    widget.description,
                     style: GoogleFonts.outfit(fontSize: 16),
                     ),
                   ),
